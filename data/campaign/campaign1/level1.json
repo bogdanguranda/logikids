@@ -1,0 +1,90 @@
+{
+  "character": {
+    "texture": "swordsmanClassic",
+    "position": {
+      "x": 0,
+      "y": 200
+    },
+    "animations": [
+      {
+        "key": "walk",
+        "frameStart": 0,
+        "frameEnd": 15
+      },
+      {
+        "key": "attack",
+        "frameStart": 16,
+        "frameEnd": 24
+      },
+      {
+        "key": "jumpCrouch",
+        "frameStart": 25,
+        "frameEnd": 32
+      },
+      {
+        "key": "jumpJump",
+        "frameStart": 33,
+        "frameEnd": 43
+      },
+      {
+        "key": "jumpFall",
+        "frameStart": 44,
+        "frameEnd": 44
+      },
+      {
+        "key": "jumpLand",
+        "frameStart": 45,
+        "frameEnd": 49
+      },
+      {
+        "key": "climb",
+        "frameStart": 50,
+        "frameEnd": 65
+      },
+      {
+        "key": "crawl",
+        "frameStart": 66,
+        "frameEnd": 82
+      },
+      {
+        "key": "pick",
+        "frameStart": 83,
+        "frameEnd": 93
+      }
+    ]
+  },
+  "environment": {
+    "horizontalWall1": {
+      "texture": "horizontalWall",
+      "position": {
+        "x": 200,
+        "y": 285
+      }
+    }
+  },
+  "collectibles": {
+    "coin1": {
+      "texture": "coin",
+      "position": {
+        "x": 535,
+        "y": 350
+      },
+      "animations": [
+        {
+          "key": "standing",
+          "frameStart": 0,
+          "frameEnd": 15
+        }
+      ]
+    }
+  },
+  "objectives": {
+    "mainObjective": {
+      "text": "pick up the gold coin!",
+      "type": "collect",
+      "data": [
+        "coin1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "character": {
+    "texture": "animations",
+    "startingPosition": {
+      "x": 600,
+      "y": 400
+    }
+  },
+  "environment": {
+    "horizontalWall1": {
+      "texture": "horizontalWall",
+      "startingPosition": {
+        "x": 500,
+        "y": 200
+      },
+      "isLethal": false
+    },
+    "horizontalWall2": {
+      "texture": "horizontalWall",
+      "startingPosition": {
+        "x": 600,
+        "y": 200
+      },
+      "isLethal": false
+    },
+    "gate1": {
+      "texture": "gate",
+      "startingPosition": {
+        "x": 750,
+        "y": 300
+      },
+      "isLethal": false
+    }
+  },
+  "collectibles": {
+    "coin1": {
+      "texture": "coin",
+      "hasAnimation": true,
+      "numberOfFrames": 16,
+      "startingPosition": {
+        "x": 250,
+        "y": 350
+      },
+      "isLethal": false
+    },
+    "coin2": {
+      "texture": "coin",
+      "hasAnimation": true,
+      "numberOfFrames": 16,
+      "startingPosition": {
+        "x": 450,
+        "y": 350
+      },
+      "isLethal": false
+    },
+    "coin3": {
+      "texture": "coin",
+      "hasAnimation": true,
+      "numberOfFrames": 16,
+      "startingPosition": {
+        "x": 650,
+        "y": 350
+      },
+      "isLethal": false
+    }
+  },
+  "enemies": {
+  },
+  "objectives": {
+    "mainObjective": {
+      "text": "pick up all the gold coins",
+      "type": "collect",
+      "data": ["coin1", "coin2", "coin3"]
+    }
+  }
+}

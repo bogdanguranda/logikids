@@ -1,0 +1,43 @@
+{
+  "numberOfLevels": 10,
+  "btnLevel1": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel2": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel3": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel4": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel5": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel6": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel7": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel8": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel9": {
+    "x": 0,
+    "y": 0
+  },
+  "btnLevel10": {
+    "x": 0,
+    "y": 0
+  }
+}

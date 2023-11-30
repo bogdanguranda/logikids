@@ -1,0 +1,21 @@
+{
+  "numberOfCampaigns": 3,
+  "btnCampaign1": {
+    "x": 191,
+    "y": 124,
+    "width": 43,
+    "height": 43
+  },
+  "btnCampaign2": {
+    "x": 594,
+    "y": 275,
+    "width": 77,
+    "height": 58
+  },
+  "btnCampaign3": {
+    "x": 787,
+    "y": 266,
+    "width": 98,
+    "height": 69
+  }
+}

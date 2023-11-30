@@ -1,0 +1,63 @@
+{
+  "numberOfLevels": 10,
+  "btnLevel1": {
+    "x": 224,
+    "y": 83,
+    "width": 52,
+    "height": 24
+  },
+  "btnLevel2": {
+    "x": 187,
+    "y": 111,
+    "width": 53,
+    "height": 29
+  },
+  "btnLevel3": {
+    "x": 128,
+    "y": 140,
+    "width": 55,
+    "height": 41
+  },
+  "btnLevel4": {
+    "x": 79,
+    "y": 195,
+    "width": 66,
+    "height": 45
+  },
+  "btnLevel5": {
+    "x": 260,
+    "y": 166,
+    "width": 81,
+    "height": 59
+  },
+  "btnLevel6": {
+    "x": 497,
+    "y": 54,
+    "width": 100,
+    "height": 83
+  },
+  "btnLevel7": {
+    "x": 628,
+    "y": 637,
+    "width": 99,
+    "height": 55
+  },
+  "btnLevel8": {
+    "x": 743,
+    "y": 551,
+    "width": 52,
+    "height": 56
+  },
+  "btnLevel9": {
+    "x": 930,
+    "y": 449,
+    "width": 81,
+    "height": 41
+  },
+  "btnLevel10": {
+    "x": 1038,
+    "y": 481,
+    "width": 67,
+    "height": 48
+  }
+}
